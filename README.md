@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Здесь должна быть информация обо мне и когда нибудь она появиться))
+
+А пока что всем бобра !))
+
+
 <!--
 **as-usual-all-the-names-are-busy/as-usual-all-the-names-are-busy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
